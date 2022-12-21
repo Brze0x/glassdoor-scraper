@@ -1,0 +1,3620 @@
+{
+    "JobTitlesByEmployer": [
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 12696,
+            "jobTitle": "Cart Attendant"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 28671,
+            "jobTitle": "Seasonal Sales Associate"
+        },
+        {
+            "id": 12350,
+            "jobTitle": "Business Operations Manager"
+        },
+        {
+            "id": 210066,
+            "jobTitle": "Social Media Freelancer"
+        },
+        {
+            "id": 119187,
+            "jobTitle": "Closing Specialist"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 17959,
+            "jobTitle": "Senior Software Engineer"
+        },
+        {
+            "id": 42825,
+            "jobTitle": "Executive Team Leader"
+        },
+        {
+            "id": 119187,
+            "jobTitle": "Closing Specialist"
+        },
+        {
+            "id": 553048,
+            "jobTitle": "Market Expert"
+        },
+        {
+            "id": 3921505,
+            "jobTitle": "Backroom Expert"
+        },
+        {
+            "id": 46680,
+            "jobTitle": "Overnight Stocker"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 3830328,
+            "jobTitle": "Inbound Expert"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 61846,
+            "jobTitle": "Back Room Team Member"
+        },
+        {
+            "id": 3551681,
+            "jobTitle": "Global Supply Planning Manager"
+        },
+        {
+            "id": 50274,
+            "jobTitle": "Retail Sales Associate"
+        },
+        {
+            "id": 17959,
+            "jobTitle": "Senior Software Engineer"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 21344,
+            "jobTitle": "General Merchandiser"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 23064,
+            "jobTitle": "Senior Director"
+        },
+        {
+            "id": 62290,
+            "jobTitle": "Barista"
+        },
+        {
+            "id": 46680,
+            "jobTitle": "Overnight Stocker"
+        },
+        {
+            "id": 44836,
+            "jobTitle": "Sales Representative"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 27524,
+            "jobTitle": "Front End Cashier"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 501798,
+            "jobTitle": "Target STL (Store Manager)"
+        },
+        {
+            "id": 5345051,
+            "jobTitle": "Checkout Advocate/Guest Advocate"
+        },
+        {
+            "id": 367031,
+            "jobTitle": "Assitant-Manager"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 46912,
+            "jobTitle": "Operations Manager"
+        },
+        {
+            "id": 50274,
+            "jobTitle": "Retail Sales Associate"
+        },
+        {
+            "id": 23064,
+            "jobTitle": "Senior Director"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 483433,
+            "jobTitle": "Barsita"
+        },
+        {
+            "id": 62290,
+            "jobTitle": "Barista"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 4194570,
+            "jobTitle": "ETL/GM Food"
+        },
+        {
+            "id": 3416860,
+            "jobTitle": "Style Team Member"
+        },
+        {
+            "id": 210066,
+            "jobTitle": "Social Media Freelancer"
+        },
+        {
+            "id": 27490,
+            "jobTitle": "Front Desk Associate"
+        },
+        {
+            "id": 41959,
+            "jobTitle": "Price Change Team Member"
+        },
+        {
+            "id": 62416,
+            "jobTitle": "Beauty Consultant"
+        },
+        {
+            "id": 7710,
+            "jobTitle": "Visual Merchandiser"
+        },
+        {
+            "id": 26150,
+            "jobTitle": "Support Worker"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 5471408,
+            "jobTitle": "Fulfullment Expert"
+        },
+        {
+            "id": 60210,
+            "jobTitle": "Customer Service Representative"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 28462,
+            "jobTitle": "Sales Floor Team Member"
+        },
+        {
+            "id": 34118,
+            "jobTitle": "Human Resources"
+        },
+        {
+            "id": 4712521,
+            "jobTitle": "Small Format Team Member"
+        },
+        {
+            "id": 2507,
+            "jobTitle": "Physical Therapist"
+        },
+        {
+            "id": 46074,
+            "jobTitle": "Customer Service Associate"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 44699,
+            "jobTitle": "Senior Analyst"
+        },
+        {
+            "id": 4749,
+            "jobTitle": "Softlines Team Member"
+        },
+        {
+            "id": 44297,
+            "jobTitle": "Security"
+        },
+        {
+            "id": 42822,
+            "jobTitle": "Executive Team Lead"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 42822,
+            "jobTitle": "Executive Team Lead"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 3830328,
+            "jobTitle": "Inbound Expert"
+        },
+        {
+            "id": 12350,
+            "jobTitle": "Business Operations Manager"
+        },
+        {
+            "id": 4276825,
+            "jobTitle": "Closing Expert"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 44836,
+            "jobTitle": "Sales Representative"
+        },
+        {
+            "id": 15954,
+            "jobTitle": "Administrative Assistant"
+        },
+        {
+            "id": 2621565,
+            "jobTitle": "Specialty Sales Team Leader"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 31670,
+            "jobTitle": "ETL Logistics"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 33628,
+            "jobTitle": "Guest Service Representative"
+        },
+        {
+            "id": 1084880,
+            "jobTitle": "Watehouse Employee"
+        },
+        {
+            "id": 644761,
+            "jobTitle": "Fufillment Associate"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 16350,
+            "jobTitle": "Human Resources Team Leader"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 62416,
+            "jobTitle": "Beauty Consultant"
+        },
+        {
+            "id": 25651,
+            "jobTitle": "Store Director"
+        },
+        {
+            "id": 37773,
+            "jobTitle": "Project Engineer"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 2529,
+            "jobTitle": "Associate"
+        },
+        {
+            "id": 1214371,
+            "jobTitle": "Sales Associate/Softlines"
+        },
+        {
+            "id": 1510800,
+            "jobTitle": "Seasonal Human Resources Specialist"
+        },
+        {
+            "id": 56297,
+            "jobTitle": "Receptionist"
+        },
+        {
+            "id": 1035382,
+            "jobTitle": "Retail Fulfillment"
+        },
+        {
+            "id": 62416,
+            "jobTitle": "Beauty Consultant"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 132063,
+            "jobTitle": "Executive Leader"
+        },
+        {
+            "id": 44699,
+            "jobTitle": "Senior Analyst"
+        },
+        {
+            "id": 2507,
+            "jobTitle": "Physical Therapist"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 200855,
+            "jobTitle": "Animal Care"
+        },
+        {
+            "id": 27490,
+            "jobTitle": "Front Desk Associate"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 3720988,
+            "jobTitle": "Front of Store Attendant"
+        },
+        {
+            "id": 4279,
+            "jobTitle": "Software Engineer"
+        },
+        {
+            "id": 46055,
+            "jobTitle": "Customer Service Advocate"
+        },
+        {
+            "id": 5509,
+            "jobTitle": "Stock Associate"
+        },
+        {
+            "id": 2977730,
+            "jobTitle": "Fullment"
+        },
+        {
+            "id": 5959385,
+            "jobTitle": "Overnight Inbound Stocker"
+        },
+        {
+            "id": 1214371,
+            "jobTitle": "Sales Associate/Softlines"
+        },
+        {
+            "id": 3861328,
+            "jobTitle": "Warehouse Fullfilment Associate"
+        },
+        {
+            "id": 1661,
+            "jobTitle": "Part Time Cashier"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 28462,
+            "jobTitle": "Sales Floor Team Member"
+        },
+        {
+            "id": 26150,
+            "jobTitle": "Support Worker"
+        },
+        {
+            "id": 3830328,
+            "jobTitle": "Inbound Expert"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 496993,
+            "jobTitle": "Style Advisor"
+        },
+        {
+            "id": 4686948,
+            "jobTitle": "Front End/Guest Advocate"
+        },
+        {
+            "id": 5471408,
+            "jobTitle": "Fulfullment Expert"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 44375,
+            "jobTitle": "Security Specialist"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 64895,
+            "jobTitle": "Tech Consultant"
+        },
+        {
+            "id": 56121,
+            "jobTitle": "Cake Decorator"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 5398416,
+            "jobTitle": "Team Member (DBO)"
+        },
+        {
+            "id": 59503,
+            "jobTitle": "Crew Member"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 657447,
+            "jobTitle": "GM Team Leader"
+        },
+        {
+            "id": 3603167,
+            "jobTitle": "Fulfillment Operations Team Lead"
+        },
+        {
+            "id": 27924,
+            "jobTitle": "Retired"
+        },
+        {
+            "id": 12696,
+            "jobTitle": "Cart Attendant"
+        },
+        {
+            "id": 2980069,
+            "jobTitle": "General Merchandise Team Member"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 56408,
+            "jobTitle": "Cashire"
+        },
+        {
+            "id": 549663,
+            "jobTitle": "Class A Cdl Truck Driver"
+        },
+        {
+            "id": 8339,
+            "jobTitle": "Warehouse Associate"
+        },
+        {
+            "id": 883296,
+            "jobTitle": "Consumables Team Member"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 28462,
+            "jobTitle": "Sales Floor Team Member"
+        },
+        {
+            "id": 22156,
+            "jobTitle": "Grocery Team Member"
+        },
+        {
+            "id": 63697,
+            "jobTitle": "Manager"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 42829,
+            "jobTitle": "Executive Team Leader - Human Resources"
+        },
+        {
+            "id": 1510800,
+            "jobTitle": "Seasonal Human Resources Specialist"
+        },
+        {
+            "id": 5346122,
+            "jobTitle": "Fufillment Expert"
+        },
+        {
+            "id": 33628,
+            "jobTitle": "Guest Service Representative"
+        },
+        {
+            "id": 132489,
+            "jobTitle": "Asset Protection Team Leader"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 46055,
+            "jobTitle": "Customer Service Advocate"
+        },
+        {
+            "id": 38293,
+            "jobTitle": "Fulfillment Specialist"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 2621565,
+            "jobTitle": "Specialty Sales Team Leader"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 2529,
+            "jobTitle": "Associate"
+        },
+        {
+            "id": 3901267,
+            "jobTitle": "Service and Engagement Advocate"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 3830328,
+            "jobTitle": "Inbound Expert"
+        },
+        {
+            "id": 64895,
+            "jobTitle": "Tech Consultant"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 38373,
+            "jobTitle": "Food Service Worker"
+        },
+        {
+            "id": 6309559,
+            "jobTitle": "Style consultant (cashier, fulfillment, guest services)"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 27524,
+            "jobTitle": "Front End Cashier"
+        },
+        {
+            "id": 751520,
+            "jobTitle": "Human Resources Expert"
+        },
+        {
+            "id": 248025,
+            "jobTitle": "Inbound Team"
+        },
+        {
+            "id": 3107124,
+            "jobTitle": "Order Fullfilment"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 38293,
+            "jobTitle": "Fulfillment Specialist"
+        },
+        {
+            "id": 25588,
+            "jobTitle": "Stocker"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 59798,
+            "jobTitle": "Courtesy Clerk"
+        },
+        {
+            "id": 4276825,
+            "jobTitle": "Closing Expert"
+        },
+        {
+            "id": 137332,
+            "jobTitle": "Starbucks-Barista"
+        },
+        {
+            "id": 3830328,
+            "jobTitle": "Inbound Expert"
+        },
+        {
+            "id": 27490,
+            "jobTitle": "Front Desk Associate"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 62416,
+            "jobTitle": "Beauty Consultant"
+        },
+        {
+            "id": 22156,
+            "jobTitle": "Grocery Team Member"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 25588,
+            "jobTitle": "Stocker"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 1271135,
+            "jobTitle": "Seasonal Part-time Cashier"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 38293,
+            "jobTitle": "Fulfillment Specialist"
+        },
+        {
+            "id": 25295,
+            "jobTitle": "Lead Engineer"
+        },
+        {
+            "id": 2529,
+            "jobTitle": "Associate"
+        },
+        {
+            "id": 28461,
+            "jobTitle": "Sales Floor Team Leader"
+        },
+        {
+            "id": 11574,
+            "jobTitle": "Service Advocate"
+        },
+        {
+            "id": 63697,
+            "jobTitle": "Manager"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 44836,
+            "jobTitle": "Sales Representative"
+        },
+        {
+            "id": 61502,
+            "jobTitle": "Program Manager"
+        },
+        {
+            "id": 2980069,
+            "jobTitle": "General Merchandise Team Member"
+        },
+        {
+            "id": 56408,
+            "jobTitle": "Cashire"
+        },
+        {
+            "id": 199306,
+            "jobTitle": "Fulfillment Team Member"
+        },
+        {
+            "id": 3955570,
+            "jobTitle": "Style Team Leader"
+        },
+        {
+            "id": 42829,
+            "jobTitle": "Executive Team Leader - Human Resources"
+        },
+        {
+            "id": 38293,
+            "jobTitle": "Fulfillment Specialist"
+        },
+        {
+            "id": 5509,
+            "jobTitle": "Stock Associate"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 40730,
+            "jobTitle": "Director"
+        },
+        {
+            "id": 59503,
+            "jobTitle": "Crew Member"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 244316,
+            "jobTitle": "Style Specialist"
+        },
+        {
+            "id": 28462,
+            "jobTitle": "Sales Floor Team Member"
+        },
+        {
+            "id": 3603167,
+            "jobTitle": "Fulfillment Operations Team Lead"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 158460,
+            "jobTitle": "ETL-AP"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 145129,
+            "jobTitle": "Wearhouse Worker"
+        },
+        {
+            "id": 137332,
+            "jobTitle": "Starbucks-Barista"
+        },
+        {
+            "id": 2621565,
+            "jobTitle": "Specialty Sales Team Leader"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 3720988,
+            "jobTitle": "Front of Store Attendant"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 3825006,
+            "jobTitle": "Outbound Warehouse Worker"
+        },
+        {
+            "id": 56297,
+            "jobTitle": "Receptionist"
+        },
+        {
+            "id": 29236,
+            "jobTitle": "Information Security Engineer"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 9226,
+            "jobTitle": "Apparel Sales Associate"
+        },
+        {
+            "id": 65387,
+            "jobTitle": "Retail Worker"
+        },
+        {
+            "id": 8339,
+            "jobTitle": "Warehouse Associate"
+        },
+        {
+            "id": 202947,
+            "jobTitle": "Remodel Team Member"
+        },
+        {
+            "id": 28379,
+            "jobTitle": "Salesman"
+        },
+        {
+            "id": 543623,
+            "jobTitle": "Distribution Warehouse Employee"
+        },
+        {
+            "id": 33628,
+            "jobTitle": "Guest Service Representative"
+        },
+        {
+            "id": 398934,
+            "jobTitle": "Sales Floor Representative"
+        },
+        {
+            "id": 549663,
+            "jobTitle": "Class A Cdl Truck Driver"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 28674,
+            "jobTitle": "Seasonal Stock Associate"
+        },
+        {
+            "id": 56379,
+            "jobTitle": "Cashier/Barista"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 38308,
+            "jobTitle": "Food and Beverage"
+        },
+        {
+            "id": 42825,
+            "jobTitle": "Executive Team Leader"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 285979,
+            "jobTitle": "Sales Floor/Softlines Team Member"
+        },
+        {
+            "id": 5346122,
+            "jobTitle": "Fufillment Expert"
+        },
+        {
+            "id": 151604,
+            "jobTitle": "Fulfillment Team Leader"
+        },
+        {
+            "id": 5398416,
+            "jobTitle": "Team Member (DBO)"
+        },
+        {
+            "id": 657447,
+            "jobTitle": "GM Team Leader"
+        },
+        {
+            "id": 50274,
+            "jobTitle": "Retail Sales Associate"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 38308,
+            "jobTitle": "Food and Beverage"
+        },
+        {
+            "id": 883296,
+            "jobTitle": "Consumables Team Member"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 263156,
+            "jobTitle": "Target Cafe Team Member"
+        },
+        {
+            "id": 2980069,
+            "jobTitle": "General Merchandise Team Member"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 27174,
+            "jobTitle": "Flow Team Member"
+        },
+        {
+            "id": 19241,
+            "jobTitle": "Logistics"
+        },
+        {
+            "id": 883296,
+            "jobTitle": "Consumables Team Member"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 38293,
+            "jobTitle": "Fulfillment Specialist"
+        },
+        {
+            "id": 62290,
+            "jobTitle": "Barista"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 8339,
+            "jobTitle": "Warehouse Associate"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 33624,
+            "jobTitle": "Guest Service Associate"
+        },
+        {
+            "id": 553048,
+            "jobTitle": "Market Expert"
+        },
+        {
+            "id": 248025,
+            "jobTitle": "Inbound Team"
+        },
+        {
+            "id": 3955570,
+            "jobTitle": "Style Team Leader"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 50274,
+            "jobTitle": "Retail Sales Associate"
+        },
+        {
+            "id": 481621,
+            "jobTitle": "Target GSA"
+        },
+        {
+            "id": 518297,
+            "jobTitle": "Backroom Logistics Team Member"
+        },
+        {
+            "id": 58305,
+            "jobTitle": "Technical Support Engineer"
+        },
+        {
+            "id": 56297,
+            "jobTitle": "Receptionist"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 617409,
+            "jobTitle": "Casher/Stock Clerk"
+        },
+        {
+            "id": 50328,
+            "jobTitle": "Reverse Logistics"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 46043,
+            "jobTitle": "Customer Service"
+        },
+        {
+            "id": 4226062,
+            "jobTitle": "Service and Engagement Team Lead"
+        },
+        {
+            "id": 63697,
+            "jobTitle": "Manager"
+        },
+        {
+            "id": 1081483,
+            "jobTitle": "HR Expert"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 37856,
+            "jobTitle": "Project Manager"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 2621565,
+            "jobTitle": "Specialty Sales Team Leader"
+        },
+        {
+            "id": 481621,
+            "jobTitle": "Target GSA"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 27524,
+            "jobTitle": "Front End Cashier"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 12696,
+            "jobTitle": "Cart Attendant"
+        },
+        {
+            "id": 5345051,
+            "jobTitle": "Checkout Advocate/Guest Advocate"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 337961,
+            "jobTitle": "Food and Beverage Trainer"
+        },
+        {
+            "id": 59798,
+            "jobTitle": "Courtesy Clerk"
+        },
+        {
+            "id": 27523,
+            "jobTitle": "Front End Associate"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 28462,
+            "jobTitle": "Sales Floor Team Member"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 62416,
+            "jobTitle": "Beauty Consultant"
+        },
+        {
+            "id": 33635,
+            "jobTitle": "Guest Service Team Member - Cashier"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 4276825,
+            "jobTitle": "Closing Expert"
+        },
+        {
+            "id": 27524,
+            "jobTitle": "Front End Cashier"
+        },
+        {
+            "id": 5533459,
+            "jobTitle": "Beauty Team Lead"
+        },
+        {
+            "id": 1008291,
+            "jobTitle": "Sr. Team Leader"
+        },
+        {
+            "id": 3117,
+            "jobTitle": "ITT"
+        },
+        {
+            "id": 2980069,
+            "jobTitle": "General Merchandise Team Member"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 699625,
+            "jobTitle": "Food and Beverage Expert"
+        },
+        {
+            "id": 46043,
+            "jobTitle": "Customer Service"
+        },
+        {
+            "id": 558742,
+            "jobTitle": "Fulfilment Team Lead"
+        },
+        {
+            "id": 127071,
+            "jobTitle": "Electronics Team Member"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 3938718,
+            "jobTitle": "GM Expert"
+        },
+        {
+            "id": 2980069,
+            "jobTitle": "General Merchandise Team Member"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 3849692,
+            "jobTitle": "Electonics Team Member"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 461892,
+            "jobTitle": "General Merchandise Associate"
+        },
+        {
+            "id": 63697,
+            "jobTitle": "Manager"
+        },
+        {
+            "id": 883296,
+            "jobTitle": "Consumables Team Member"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 158533,
+            "jobTitle": "Sales Clerk/Cashier"
+        },
+        {
+            "id": 25576,
+            "jobTitle": "Stock Team"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 13596,
+            "jobTitle": "Merchandiser"
+        },
+        {
+            "id": 5335994,
+            "jobTitle": "Dedicated Business Owner"
+        },
+        {
+            "id": 461892,
+            "jobTitle": "General Merchandise Associate"
+        },
+        {
+            "id": 69353,
+            "jobTitle": "Seasonal Team Member"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 33628,
+            "jobTitle": "Guest Service Representative"
+        },
+        {
+            "id": 669449,
+            "jobTitle": "Fulfilment Associate"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 453236,
+            "jobTitle": "Visual Team Lead"
+        },
+        {
+            "id": 4272641,
+            "jobTitle": "GM and Food"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 461892,
+            "jobTitle": "General Merchandise Associate"
+        },
+        {
+            "id": 38308,
+            "jobTitle": "Food and Beverage"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 22156,
+            "jobTitle": "Grocery Team Member"
+        },
+        {
+            "id": 38293,
+            "jobTitle": "Fulfillment Specialist"
+        },
+        {
+            "id": 46055,
+            "jobTitle": "Customer Service Advocate"
+        },
+        {
+            "id": 64316,
+            "jobTitle": "Student Worker"
+        },
+        {
+            "id": 124340,
+            "jobTitle": "Director Food and Beverage"
+        },
+        {
+            "id": 367031,
+            "jobTitle": "Assitant-Manager"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 64316,
+            "jobTitle": "Student Worker"
+        },
+        {
+            "id": 35020,
+            "jobTitle": "Senior Specialist"
+        },
+        {
+            "id": 42825,
+            "jobTitle": "Executive Team Leader"
+        },
+        {
+            "id": 25588,
+            "jobTitle": "Stocker"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 617409,
+            "jobTitle": "Casher/Stock Clerk"
+        },
+        {
+            "id": 42829,
+            "jobTitle": "Executive Team Leader - Human Resources"
+        },
+        {
+            "id": 27523,
+            "jobTitle": "Front End Associate"
+        },
+        {
+            "id": 3870641,
+            "jobTitle": "Guest Service Advocate"
+        },
+        {
+            "id": 27524,
+            "jobTitle": "Front End Cashier"
+        },
+        {
+            "id": 28671,
+            "jobTitle": "Seasonal Sales Associate"
+        },
+        {
+            "id": 669449,
+            "jobTitle": "Fulfilment Associate"
+        },
+        {
+            "id": 8339,
+            "jobTitle": "Warehouse Associate"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 25637,
+            "jobTitle": "Store Associate"
+        },
+        {
+            "id": 4226062,
+            "jobTitle": "Service and Engagement Team Lead"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 42827,
+            "jobTitle": "Executive Team Leader - Assets Protection"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 3233711,
+            "jobTitle": "Closing Team Leader"
+        },
+        {
+            "id": 3938718,
+            "jobTitle": "GM Expert"
+        },
+        {
+            "id": 25588,
+            "jobTitle": "Stocker"
+        },
+        {
+            "id": 2621489,
+            "jobTitle": "Specialty Sales Team Lead"
+        },
+        {
+            "id": 5285611,
+            "jobTitle": "ICQA Team Member"
+        },
+        {
+            "id": 28462,
+            "jobTitle": "Sales Floor Team Member"
+        },
+        {
+            "id": 5400463,
+            "jobTitle": "Guest Advocate (Cashier Or Front of Store Attendant)"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 62416,
+            "jobTitle": "Beauty Consultant"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 263156,
+            "jobTitle": "Target Cafe Team Member"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 38308,
+            "jobTitle": "Food and Beverage"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 27524,
+            "jobTitle": "Front End Cashier"
+        },
+        {
+            "id": 42825,
+            "jobTitle": "Executive Team Leader"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 231105,
+            "jobTitle": "Warehouse Team Member"
+        },
+        {
+            "id": 2529,
+            "jobTitle": "Associate"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 20346,
+            "jobTitle": "Team Lead"
+        },
+        {
+            "id": 28462,
+            "jobTitle": "Sales Floor Team Member"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 13162,
+            "jobTitle": "Cashier - Front End"
+        },
+        {
+            "id": 33635,
+            "jobTitle": "Guest Service Team Member - Cashier"
+        },
+        {
+            "id": 64895,
+            "jobTitle": "Tech Consultant"
+        },
+        {
+            "id": 3416860,
+            "jobTitle": "Style Team Member"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 27174,
+            "jobTitle": "Flow Team Member"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 50274,
+            "jobTitle": "Retail Sales Associate"
+        },
+        {
+            "id": 1002094,
+            "jobTitle": "Order Fulfilment Specialist"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 3901267,
+            "jobTitle": "Service and Engagement Advocate"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 46592,
+            "jobTitle": "Order Picker"
+        },
+        {
+            "id": 3416860,
+            "jobTitle": "Style Team Member"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 41259,
+            "jobTitle": "Pharmacy Technician"
+        },
+        {
+            "id": 58305,
+            "jobTitle": "Technical Support Engineer"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 5346122,
+            "jobTitle": "Fufillment Expert"
+        },
+        {
+            "id": 21344,
+            "jobTitle": "General Merchandiser"
+        },
+        {
+            "id": 751520,
+            "jobTitle": "Human Resources Expert"
+        },
+        {
+            "id": 33638,
+            "jobTitle": "Guest Services"
+        },
+        {
+            "id": 120988,
+            "jobTitle": "Stocking Associate"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 215316,
+            "jobTitle": "Hardlines Associate"
+        },
+        {
+            "id": 12696,
+            "jobTitle": "Cart Attendant"
+        },
+        {
+            "id": 60210,
+            "jobTitle": "Customer Service Representative"
+        },
+        {
+            "id": 8339,
+            "jobTitle": "Warehouse Associate"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 46680,
+            "jobTitle": "Overnight Stocker"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 56297,
+            "jobTitle": "Receptionist"
+        },
+        {
+            "id": 18821,
+            "jobTitle": "Beauty Specialist"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 3973699,
+            "jobTitle": "Seasonal Team Member - Fulfillment"
+        },
+        {
+            "id": 22151,
+            "jobTitle": "Grocery Stocker"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 2302,
+            "jobTitle": "Assistant Store Manager"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 816344,
+            "jobTitle": "Seasonal Stocker"
+        },
+        {
+            "id": 137332,
+            "jobTitle": "Starbucks-Barista"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 232846,
+            "jobTitle": "Executive Team Leader - Guest Experience"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 63697,
+            "jobTitle": "Manager"
+        },
+        {
+            "id": 8339,
+            "jobTitle": "Warehouse Associate"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 6878,
+            "jobTitle": "Clerk"
+        },
+        {
+            "id": 42825,
+            "jobTitle": "Executive Team Leader"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 42829,
+            "jobTitle": "Executive Team Leader - Human Resources"
+        },
+        {
+            "id": 3416860,
+            "jobTitle": "Style Team Member"
+        },
+        {
+            "id": 231105,
+            "jobTitle": "Warehouse Team Member"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 64895,
+            "jobTitle": "Tech Consultant"
+        },
+        {
+            "id": 60210,
+            "jobTitle": "Customer Service Representative"
+        },
+        {
+            "id": 46074,
+            "jobTitle": "Customer Service Associate"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 38308,
+            "jobTitle": "Food and Beverage"
+        },
+        {
+            "id": 33628,
+            "jobTitle": "Guest Service Representative"
+        },
+        {
+            "id": 3861328,
+            "jobTitle": "Warehouse Fullfilment Associate"
+        },
+        {
+            "id": 194739,
+            "jobTitle": "Enigineering"
+        },
+        {
+            "id": 35168,
+            "jobTitle": "Senior Security Specialist"
+        },
+        {
+            "id": 20692,
+            "jobTitle": "Technology Consultant"
+        },
+        {
+            "id": 46055,
+            "jobTitle": "Customer Service Advocate"
+        },
+        {
+            "id": 10446,
+            "jobTitle": "Intern"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 3830328,
+            "jobTitle": "Inbound Expert"
+        },
+        {
+            "id": 816344,
+            "jobTitle": "Seasonal Stocker"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 558742,
+            "jobTitle": "Fulfilment Team Lead"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 484651,
+            "jobTitle": "Food and Beverage Team Member"
+        },
+        {
+            "id": 38308,
+            "jobTitle": "Food and Beverage"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 3870641,
+            "jobTitle": "Guest Service Advocate"
+        },
+        {
+            "id": 4698129,
+            "jobTitle": "Property Management Lead"
+        },
+        {
+            "id": 50274,
+            "jobTitle": "Retail Sales Associate"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 127071,
+            "jobTitle": "Electronics Team Member"
+        },
+        {
+            "id": 25651,
+            "jobTitle": "Store Director"
+        },
+        {
+            "id": 35168,
+            "jobTitle": "Senior Security Specialist"
+        },
+        {
+            "id": 61846,
+            "jobTitle": "Back Room Team Member"
+        },
+        {
+            "id": 398625,
+            "jobTitle": "Asset Protection Lead"
+        },
+        {
+            "id": 481621,
+            "jobTitle": "Target GSA"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 27524,
+            "jobTitle": "Front End Cashier"
+        },
+        {
+            "id": 623003,
+            "jobTitle": "Target Cafe"
+        },
+        {
+            "id": 6333732,
+            "jobTitle": "Seasonal Inbound Expert"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 17959,
+            "jobTitle": "Senior Software Engineer"
+        },
+        {
+            "id": 623003,
+            "jobTitle": "Target Cafe"
+        },
+        {
+            "id": 3210348,
+            "jobTitle": "Sr HR Business Partner"
+        },
+        {
+            "id": 2621489,
+            "jobTitle": "Specialty Sales Team Lead"
+        },
+        {
+            "id": 187549,
+            "jobTitle": "General Merchandise"
+        },
+        {
+            "id": 3550,
+            "jobTitle": "Janitor"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 16350,
+            "jobTitle": "Human Resources Team Leader"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 883296,
+            "jobTitle": "Consumables Team Member"
+        },
+        {
+            "id": 2529,
+            "jobTitle": "Associate"
+        },
+        {
+            "id": 62290,
+            "jobTitle": "Barista"
+        },
+        {
+            "id": 28671,
+            "jobTitle": "Seasonal Sales Associate"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 481621,
+            "jobTitle": "Target GSA"
+        },
+        {
+            "id": 27524,
+            "jobTitle": "Front End Cashier"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 23488,
+            "jobTitle": "Accounting Clerk"
+        },
+        {
+            "id": 781471,
+            "jobTitle": "Styling Consultant"
+        },
+        {
+            "id": 46055,
+            "jobTitle": "Customer Service Advocate"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 33638,
+            "jobTitle": "Guest Services"
+        },
+        {
+            "id": 42825,
+            "jobTitle": "Executive Team Leader"
+        },
+        {
+            "id": 492952,
+            "jobTitle": "Target/Cashier"
+        },
+        {
+            "id": 20346,
+            "jobTitle": "Team Lead"
+        },
+        {
+            "id": 5400463,
+            "jobTitle": "Guest Advocate (Cashier Or Front of Store Attendant)"
+        },
+        {
+            "id": 1409262,
+            "jobTitle": "Sales Associate, \"style Specialist\""
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 4192875,
+            "jobTitle": "Guest Advocate/Style Consultant"
+        },
+        {
+            "id": 37257,
+            "jobTitle": "Product Designer"
+        },
+        {
+            "id": 28462,
+            "jobTitle": "Sales Floor Team Member"
+        },
+        {
+            "id": 7710,
+            "jobTitle": "Visual Merchandiser"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 50274,
+            "jobTitle": "Retail Sales Associate"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 12696,
+            "jobTitle": "Cart Attendant"
+        },
+        {
+            "id": 4226062,
+            "jobTitle": "Service and Engagement Team Lead"
+        },
+        {
+            "id": 6878,
+            "jobTitle": "Clerk"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 18701,
+            "jobTitle": "Backroom Associate"
+        },
+        {
+            "id": 28671,
+            "jobTitle": "Seasonal Sales Associate"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 63346,
+            "jobTitle": "Loss Prevention Officer"
+        },
+        {
+            "id": 4712521,
+            "jobTitle": "Small Format Team Member"
+        },
+        {
+            "id": 3870641,
+            "jobTitle": "Guest Service Advocate"
+        },
+        {
+            "id": 59503,
+            "jobTitle": "Crew Member"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 33638,
+            "jobTitle": "Guest Services"
+        },
+        {
+            "id": 56379,
+            "jobTitle": "Cashier/Barista"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 46751,
+            "jobTitle": "Office Employee"
+        },
+        {
+            "id": 44340,
+            "jobTitle": "Security Officer"
+        },
+        {
+            "id": 3416860,
+            "jobTitle": "Style Team Member"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 73918,
+            "jobTitle": "Digital Tech"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 17959,
+            "jobTitle": "Senior Software Engineer"
+        },
+        {
+            "id": 42825,
+            "jobTitle": "Executive Team Leader"
+        },
+        {
+            "id": 46018,
+            "jobTitle": "Customer Service Team Lead"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 5843277,
+            "jobTitle": "OPU Picker"
+        },
+        {
+            "id": 59662,
+            "jobTitle": "Customer Associate"
+        },
+        {
+            "id": 13556,
+            "jobTitle": "Merchandise Associate"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 32213,
+            "jobTitle": "Executive Manager"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 266044,
+            "jobTitle": "Cachier"
+        },
+        {
+            "id": 6878,
+            "jobTitle": "Clerk"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 58595,
+            "jobTitle": "Technician"
+        },
+        {
+            "id": 34181,
+            "jobTitle": "Human Resources Manager"
+        },
+        {
+            "id": 41872,
+            "jobTitle": "Phlebotomist"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 49069,
+            "jobTitle": "Employee"
+        },
+        {
+            "id": 38293,
+            "jobTitle": "Fulfillment Specialist"
+        },
+        {
+            "id": 1014655,
+            "jobTitle": "Team Members"
+        },
+        {
+            "id": 609173,
+            "jobTitle": "Sales Associate - Stylist"
+        },
+        {
+            "id": 64875,
+            "jobTitle": "Tech"
+        },
+        {
+            "id": 4279,
+            "jobTitle": "Software Engineer"
+        },
+        {
+            "id": 3861328,
+            "jobTitle": "Warehouse Fullfilment Associate"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 37509,
+            "jobTitle": "Psychologist"
+        },
+        {
+            "id": 63697,
+            "jobTitle": "Manager"
+        },
+        {
+            "id": 38300,
+            "jobTitle": "Food & Beverage"
+        },
+        {
+            "id": 38293,
+            "jobTitle": "Fulfillment Specialist"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 484651,
+            "jobTitle": "Food and Beverage Team Member"
+        },
+        {
+            "id": 4276825,
+            "jobTitle": "Closing Expert"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 3089233,
+            "jobTitle": "Fullfillment Specialist"
+        },
+        {
+            "id": 64895,
+            "jobTitle": "Tech Consultant"
+        },
+        {
+            "id": 4224490,
+            "jobTitle": "ETL Service and Engagement"
+        },
+        {
+            "id": 20692,
+            "jobTitle": "Technology Consultant"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 50274,
+            "jobTitle": "Retail Sales Associate"
+        },
+        {
+            "id": 62290,
+            "jobTitle": "Barista"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 26210,
+            "jobTitle": "Store Manager"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 46760,
+            "jobTitle": "Office Manager"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 25588,
+            "jobTitle": "Stocker"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 781471,
+            "jobTitle": "Styling Consultant"
+        },
+        {
+            "id": 512545,
+            "jobTitle": "Pml"
+        },
+        {
+            "id": 21344,
+            "jobTitle": "General Merchandiser"
+        },
+        {
+            "id": 63697,
+            "jobTitle": "Manager"
+        },
+        {
+            "id": 62290,
+            "jobTitle": "Barista"
+        },
+        {
+            "id": 62416,
+            "jobTitle": "Beauty Consultant"
+        },
+        {
+            "id": 4279,
+            "jobTitle": "Software Engineer"
+        },
+        {
+            "id": 38348,
+            "jobTitle": "Food Runner"
+        },
+        {
+            "id": 8339,
+            "jobTitle": "Warehouse Associate"
+        },
+        {
+            "id": 38293,
+            "jobTitle": "Fulfillment Specialist"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 5589309,
+            "jobTitle": "Mobile Sales Associate (Target Tech)"
+        },
+        {
+            "id": 1008291,
+            "jobTitle": "Sr. Team Leader"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 4276825,
+            "jobTitle": "Closing Expert"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 46074,
+            "jobTitle": "Customer Service Associate"
+        },
+        {
+            "id": 139901,
+            "jobTitle": "Food Service Team Leader"
+        },
+        {
+            "id": 61585,
+            "jobTitle": "Product Manager"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 46680,
+            "jobTitle": "Overnight Stocker"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 49181,
+            "jobTitle": "Electronics Sales Associate"
+        },
+        {
+            "id": 60396,
+            "jobTitle": "Delivery Driver"
+        },
+        {
+            "id": 27030,
+            "jobTitle": "Forklift Operator"
+        },
+        {
+            "id": 62290,
+            "jobTitle": "Barista"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 69353,
+            "jobTitle": "Seasonal Team Member"
+        },
+        {
+            "id": 137332,
+            "jobTitle": "Starbucks-Barista"
+        },
+        {
+            "id": 38293,
+            "jobTitle": "Fulfillment Specialist"
+        },
+        {
+            "id": 31661,
+            "jobTitle": "ETL"
+        },
+        {
+            "id": 30942,
+            "jobTitle": "Specialty Sales Representative"
+        },
+        {
+            "id": 64895,
+            "jobTitle": "Tech Consultant"
+        },
+        {
+            "id": 4279,
+            "jobTitle": "Software Engineer"
+        },
+        {
+            "id": 196937,
+            "jobTitle": "Food Avenue Team Member"
+        },
+        {
+            "id": 38348,
+            "jobTitle": "Food Runner"
+        },
+        {
+            "id": 50274,
+            "jobTitle": "Retail Sales Associate"
+        },
+        {
+            "id": 62290,
+            "jobTitle": "Barista"
+        },
+        {
+            "id": 31261,
+            "jobTitle": "Engineer"
+        },
+        {
+            "id": 728232,
+            "jobTitle": "Licensed Funeral Director/Embalmer"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 4224490,
+            "jobTitle": "ETL Service and Engagement"
+        },
+        {
+            "id": 3138593,
+            "jobTitle": "Fullfillment Associate"
+        },
+        {
+            "id": 644761,
+            "jobTitle": "Fufillment Associate"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 8339,
+            "jobTitle": "Warehouse Associate"
+        },
+        {
+            "id": 28203,
+            "jobTitle": "Sales Consultant"
+        },
+        {
+            "id": 3954075,
+            "jobTitle": "SFS (Ship-From-Store) Associate"
+        },
+        {
+            "id": 35020,
+            "jobTitle": "Senior Specialist"
+        },
+        {
+            "id": 46043,
+            "jobTitle": "Customer Service"
+        },
+        {
+            "id": 25931,
+            "jobTitle": "Lead Specialist"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 42825,
+            "jobTitle": "Executive Team Leader"
+        },
+        {
+            "id": 5735968,
+            "jobTitle": "Cash Register Worker"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 282851,
+            "jobTitle": "Order Fulfillment Associate"
+        },
+        {
+            "id": 46055,
+            "jobTitle": "Customer Service Advocate"
+        },
+        {
+            "id": 60214,
+            "jobTitle": "Customer Service Representative (CSR)"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 17212,
+            "jobTitle": "Senior Manager, Marketing"
+        },
+        {
+            "id": 41872,
+            "jobTitle": "Phlebotomist"
+        },
+        {
+            "id": 464480,
+            "jobTitle": "Guest Services Team Leader"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 4319088,
+            "jobTitle": "Online Order Picker"
+        },
+        {
+            "id": 3851347,
+            "jobTitle": "Flexer"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 46074,
+            "jobTitle": "Customer Service Associate"
+        },
+        {
+            "id": 46680,
+            "jobTitle": "Overnight Stocker"
+        },
+        {
+            "id": 3720988,
+            "jobTitle": "Front of Store Attendant"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 1051238,
+            "jobTitle": "GSA Guest Service Associate"
+        },
+        {
+            "id": 25588,
+            "jobTitle": "Stocker"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 53161,
+            "jobTitle": "Tss"
+        },
+        {
+            "id": 4686948,
+            "jobTitle": "Front End/Guest Advocate"
+        },
+        {
+            "id": 187549,
+            "jobTitle": "General Merchandise"
+        },
+        {
+            "id": 8339,
+            "jobTitle": "Warehouse Associate"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 7710,
+            "jobTitle": "Visual Merchandiser"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 5284260,
+            "jobTitle": "Seasonal Guest Advocate"
+        },
+        {
+            "id": 50274,
+            "jobTitle": "Retail Sales Associate"
+        },
+        {
+            "id": 13596,
+            "jobTitle": "Merchandiser"
+        },
+        {
+            "id": 49181,
+            "jobTitle": "Electronics Sales Associate"
+        },
+        {
+            "id": 49069,
+            "jobTitle": "Employee"
+        },
+        {
+            "id": 62290,
+            "jobTitle": "Barista"
+        },
+        {
+            "id": 38293,
+            "jobTitle": "Fulfillment Specialist"
+        },
+        {
+            "id": 46912,
+            "jobTitle": "Operations Manager"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 62420,
+            "jobTitle": "Beauty Expert"
+        },
+        {
+            "id": 44375,
+            "jobTitle": "Security Specialist"
+        },
+        {
+            "id": 480237,
+            "jobTitle": "TSS Worker"
+        },
+        {
+            "id": 17212,
+            "jobTitle": "Senior Manager, Marketing"
+        },
+        {
+            "id": 461892,
+            "jobTitle": "General Merchandise Associate"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 199306,
+            "jobTitle": "Fulfillment Team Member"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 62290,
+            "jobTitle": "Barista"
+        },
+        {
+            "id": 12421,
+            "jobTitle": "Buyer"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 5284260,
+            "jobTitle": "Seasonal Guest Advocate"
+        },
+        {
+            "id": 4686948,
+            "jobTitle": "Front End/Guest Advocate"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 25931,
+            "jobTitle": "Lead Specialist"
+        },
+        {
+            "id": 34181,
+            "jobTitle": "Human Resources Manager"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 30942,
+            "jobTitle": "Specialty Sales Representative"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 62416,
+            "jobTitle": "Beauty Consultant"
+        },
+        {
+            "id": 34181,
+            "jobTitle": "Human Resources Manager"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 28462,
+            "jobTitle": "Sales Floor Team Member"
+        },
+        {
+            "id": 4257799,
+            "jobTitle": "Flexible Fulfillment Expert"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 8995,
+            "jobTitle": "APPOINTMENT CLERK"
+        },
+        {
+            "id": 33587,
+            "jobTitle": "GSTL"
+        },
+        {
+            "id": 2529,
+            "jobTitle": "Associate"
+        },
+        {
+            "id": 155370,
+            "jobTitle": "Hardline Team Member"
+        },
+        {
+            "id": 33628,
+            "jobTitle": "Guest Service Representative"
+        },
+        {
+            "id": 44297,
+            "jobTitle": "Security"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 46055,
+            "jobTitle": "Customer Service Advocate"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 231105,
+            "jobTitle": "Warehouse Team Member"
+        },
+        {
+            "id": 27174,
+            "jobTitle": "Flow Team Member"
+        },
+        {
+            "id": 464480,
+            "jobTitle": "Guest Services Team Leader"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 39224,
+            "jobTitle": "Senior Designer"
+        },
+        {
+            "id": 50249,
+            "jobTitle": "Retail Merchandiser"
+        },
+        {
+            "id": 62412,
+            "jobTitle": "Beauty Advisor"
+        },
+        {
+            "id": 62290,
+            "jobTitle": "Barista"
+        },
+        {
+            "id": 2621565,
+            "jobTitle": "Specialty Sales Team Leader"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        },
+        {
+            "id": 2529,
+            "jobTitle": "Associate"
+        },
+        {
+            "id": 461892,
+            "jobTitle": "General Merchandise Associate"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 28946,
+            "jobTitle": "Sales"
+        },
+        {
+            "id": 60210,
+            "jobTitle": "Customer Service Representative"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 53161,
+            "jobTitle": "Tss"
+        },
+        {
+            "id": 137332,
+            "jobTitle": "Starbucks-Barista"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 50180,
+            "jobTitle": "Retail Associate"
+        },
+        {
+            "id": 3002570,
+            "jobTitle": "Gust Service"
+        },
+        {
+            "id": 199306,
+            "jobTitle": "Fulfillment Team Member"
+        },
+        {
+            "id": 25588,
+            "jobTitle": "Stocker"
+        },
+        {
+            "id": 63697,
+            "jobTitle": "Manager"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 4187495,
+            "jobTitle": "Service and Engagement Team Leader"
+        },
+        {
+            "id": 4203458,
+            "jobTitle": "Executive Team Leader - Service and Engagement"
+        },
+        {
+            "id": 34118,
+            "jobTitle": "Human Resources"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 42825,
+            "jobTitle": "Executive Team Leader"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 4712521,
+            "jobTitle": "Small Format Team Member"
+        },
+        {
+            "id": 154617,
+            "jobTitle": "Electronics Consultant"
+        },
+        {
+            "id": 187549,
+            "jobTitle": "General Merchandise"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 60396,
+            "jobTitle": "Delivery Driver"
+        },
+        {
+            "id": 1051238,
+            "jobTitle": "GSA Guest Service Associate"
+        },
+        {
+            "id": 3416860,
+            "jobTitle": "Style Team Member"
+        },
+        {
+            "id": 4187495,
+            "jobTitle": "Service and Engagement Team Leader"
+        },
+        {
+            "id": 3728282,
+            "jobTitle": "General Merchandise Expert"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 27524,
+            "jobTitle": "Front End Cashier"
+        },
+        {
+            "id": 64895,
+            "jobTitle": "Tech Consultant"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 46912,
+            "jobTitle": "Operations Manager"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 1175967,
+            "jobTitle": "GM Team Member"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 1021641,
+            "jobTitle": "Sales Accosicate"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 73833,
+            "jobTitle": "Diplomat"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 62420,
+            "jobTitle": "Beauty Expert"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 61585,
+            "jobTitle": "Product Manager"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 25588,
+            "jobTitle": "Stocker"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 21344,
+            "jobTitle": "General Merchandiser"
+        },
+        {
+            "id": 22151,
+            "jobTitle": "Grocery Stocker"
+        },
+        {
+            "id": 3233711,
+            "jobTitle": "Closing Team Leader"
+        },
+        {
+            "id": 84024,
+            "jobTitle": "Fashion Merchandiser"
+        },
+        {
+            "id": 3416860,
+            "jobTitle": "Style Team Member"
+        },
+        {
+            "id": 34118,
+            "jobTitle": "Human Resources"
+        },
+        {
+            "id": 46043,
+            "jobTitle": "Customer Service"
+        },
+        {
+            "id": 57221,
+            "jobTitle": "Career Counselor"
+        },
+        {
+            "id": 44375,
+            "jobTitle": "Security Specialist"
+        },
+        {
+            "id": 540460,
+            "jobTitle": "Store Front Associate"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 25651,
+            "jobTitle": "Store Director"
+        },
+        {
+            "id": 28462,
+            "jobTitle": "Sales Floor Team Member"
+        },
+        {
+            "id": 6878,
+            "jobTitle": "Clerk"
+        },
+        {
+            "id": 50275,
+            "jobTitle": "Retail Sales Clerk"
+        },
+        {
+            "id": 3035795,
+            "jobTitle": "Buisness Analyst"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 17959,
+            "jobTitle": "Senior Software Engineer"
+        },
+        {
+            "id": 192545,
+            "jobTitle": "ICQA"
+        },
+        {
+            "id": 636084,
+            "jobTitle": "Tech Team Member"
+        },
+        {
+            "id": 3448527,
+            "jobTitle": "Fulifillmet Associate"
+        },
+        {
+            "id": 46912,
+            "jobTitle": "Operations Manager"
+        },
+        {
+            "id": 31661,
+            "jobTitle": "ETL"
+        },
+        {
+            "id": 63697,
+            "jobTitle": "Manager"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 64895,
+            "jobTitle": "Tech Consultant"
+        },
+        {
+            "id": 62290,
+            "jobTitle": "Barista"
+        },
+        {
+            "id": 155370,
+            "jobTitle": "Hardline Team Member"
+        },
+        {
+            "id": 151604,
+            "jobTitle": "Fulfillment Team Leader"
+        },
+        {
+            "id": 31261,
+            "jobTitle": "Engineer"
+        },
+        {
+            "id": 28946,
+            "jobTitle": "Sales"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 60210,
+            "jobTitle": "Customer Service Representative"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 30942,
+            "jobTitle": "Specialty Sales Representative"
+        },
+        {
+            "id": 62412,
+            "jobTitle": "Beauty Advisor"
+        },
+        {
+            "id": 805882,
+            "jobTitle": "Guest Advocate"
+        },
+        {
+            "id": 63697,
+            "jobTitle": "Manager"
+        },
+        {
+            "id": 146462,
+            "jobTitle": "Fulfillment Associate"
+        },
+        {
+            "id": 4686948,
+            "jobTitle": "Front End/Guest Advocate"
+        },
+        {
+            "id": 13159,
+            "jobTitle": "Cashier"
+        },
+        {
+            "id": 47759,
+            "jobTitle": "Warehouse Worker"
+        },
+        {
+            "id": 461892,
+            "jobTitle": "General Merchandise Associate"
+        },
+        {
+            "id": 161398,
+            "jobTitle": "Specialty Team Member"
+        },
+        {
+            "id": 33587,
+            "jobTitle": "GSTL"
+        },
+        {
+            "id": 50838,
+            "jobTitle": "Sales Associate"
+        },
+        {
+            "id": 3603762,
+            "jobTitle": "Fulfillment Expert"
+        },
+        {
+            "id": 64837,
+            "jobTitle": "Team Member"
+        },
+        {
+            "id": 187549,
+            "jobTitle": "General Merchandise"
+        },
+        {
+            "id": 28157,
+            "jobTitle": "Sales Associate/Cashier"
+        },
+        {
+            "id": 25818,
+            "jobTitle": "Style Consultant"
+        },
+        {
+            "id": 199306,
+            "jobTitle": "Fulfillment Team Member"
+        },
+        {
+            "id": 5988145,
+            "jobTitle": "Part-Time Seasonal Team Member"
+        },
+        {
+            "id": 2529,
+            "jobTitle": "Associate"
+        },
+        {
+            "id": 50249,
+            "jobTitle": "Retail Merchandiser"
+        },
+        {
+            "id": 33628,
+            "jobTitle": "Guest Service Representative"
+        },
+        {
+            "id": 20709,
+            "jobTitle": "Team Leader"
+        }
+    ]
+}
