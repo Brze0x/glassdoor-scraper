@@ -1,4 +1,5 @@
 import json
+import csv
 import logging
 import requests
 from typing import Any
@@ -29,9 +30,14 @@ class Common:
 
     @staticmethod
     def save_to_json(data: dict, file_name: str) -> None:
-        with open(f'{file_name}.json', mode='w', encoding='utf-8') as f:
+        with open(f'output/{file_name}.json', mode='w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
 
+    @staticmethod
+    def save_to_csv(data: list, file_name: str) -> None:
+        with open(f'output/{file_name}.csv', mode='a', encoding="utf-8") as f:
+                    writer = csv.writer(f, lineterminator='\n')
+                    writer.writerow([*data])
     @staticmethod
     def record_logs(status_code: int, company_id: int=None, url: str=None) -> None:
         logging.basicConfig(filename='logs.log',
