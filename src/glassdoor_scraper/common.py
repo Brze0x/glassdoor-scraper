@@ -17,6 +17,7 @@ class Common:
             adapter = HTTPAdapter(max_retries=retry)
             session.mount('http://', adapter)
             session.mount('https://', adapter)
+            session.max_redirects = 60
             response = session.get(url=url, params=params, stream=True)
             return response.text, response.status_code
 
@@ -36,8 +37,9 @@ class Common:
     @staticmethod
     def save_to_csv(data: list, file_name: str) -> None:
         with open(f'output/{file_name}.csv', mode='a', encoding="utf-8") as f:
-                    writer = csv.writer(f, lineterminator='\n')
-                    writer.writerow([*data])
+            writer = csv.writer(f, lineterminator='\n', quotechar='"', quoting=csv.QUOTE_ALL)
+            writer.writerow([*data])
+
     @staticmethod
     def record_logs(status_code: int, company_id: int=None, url: str=None) -> None:
         logging.basicConfig(filename='logs.log',

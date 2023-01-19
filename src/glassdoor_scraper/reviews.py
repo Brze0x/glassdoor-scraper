@@ -35,14 +35,22 @@ class Reviews:
             if job['id'] == job_id:
                 return job['jobTitle']
 
+    def validate_data(self, data: str) -> str:
+        if data:
+            data = re.sub(r'\n', " ", data)
+            data = re.sub(r'\r', " ", data)
+            data = re.sub(r',', r'\,', data)
+            data = re.sub(r' +', ' ', data)
+            return data
+
     def validate_review(self, review: dict) -> dict:
         return {
                 'title': review.get('summary'),
                 'rating': review.get('ratingOverall'),
                 'employeeSituation': self.get_employee_situation(review),
-                'pros': review.get('pros'),
-                'cons': review.get('cons'),
-                'adviceToManagement': review.get('advice', 'No data')
+                'pros': self.validate_data(review.get('pros')),
+                'cons': self.validate_data(review.get('cons')),
+                'adviceToManagement': self.validate_data(review.get('advice', 'No data'))
             }
 
     def get_review_page_content(self, link: str, page_num: int, params: dict=None) -> tuple[str, int]:

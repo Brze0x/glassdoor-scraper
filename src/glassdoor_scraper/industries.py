@@ -12,6 +12,7 @@ class Industries:
     def get_industries(self) -> dict[str, list]:
         content = Common.get_page_content(self.url)
         data = json.loads(re.findall(self.pattern, Common.get_script_tag_data(content[0]))[0][1])
+        
         for item in data:
             data = {
                 "industryId": item["industryId"],

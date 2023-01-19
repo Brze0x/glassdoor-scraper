@@ -14,9 +14,17 @@ class Overview:
     def get_url(company_id: int) -> str:
         return f"https://www.glassdoor.com/Overview/Working-at-EI_IE{company_id}.htm"
 
-    def validate_item(self, data: Union[dict, None], key: str) -> Union[str, None]:
+    def check_item(self, data: Union[dict, None], key: str) -> Union[str, None]:
         if data:
             return data.get(key)
+
+    def validate_data(self, data: str) -> str:
+        if data:
+            data = re.sub(r'\n', " ", data)
+            data = re.sub(r'\r', " ", data)
+            data = re.sub(r',', r'\,', data)
+            data = re.sub(r' +', ' ', data)
+            return data
 
     def validate_json(self, data: dict) -> dict[str, Any]:
         return {
@@ -30,9 +38,9 @@ class Overview:
             "size": data["size"],
             "stock": data["stock"],
             "yearFounded": data["yearFounded"],
-            "industryName": self.validate_item(data["primaryIndustry"], "industryName"),
-            "description": data["overview"]["description"],
-            "mission": data["overview"]["mission"]
+            "industryName": self.check_item(data["primaryIndustry"], "industryName"),
+            "description": self.validate_data(data["overview"]["description"]),
+            "mission": self.validate_data(data["overview"]["mission"])
         }
 
     def get_overview(self, company_id: int) -> Union[dict[str, Any], None]:

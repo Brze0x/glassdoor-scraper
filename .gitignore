@@ -28,3 +28,4 @@ pytestdebug.log
 # Other pyfiles
 auth.py
 temp.py
+tests.py
