@@ -13,6 +13,12 @@ https://www.glassdoor.com/Overview/Working-at-Amazon-EI_IE6036.11,17.htm in this
 
 The data is saved in CSV format to the "output" directory, which is located in "glassdoor-scraper\src\glassdoor_scraper\"
 
+Example review output:
+![output review](https://i.imgur.com/P5OLYg3.png)
+
+Example overview output:
+![output overview](https://i.imgur.com/hiBk4jI.png)
+
 ### Requirements
 What things you need to use this scraper.
 - Python v3.9 or above
