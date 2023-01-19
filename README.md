@@ -7,8 +7,9 @@ To get reviews you need to specify the link and page number from which reviews w
 
 To get an overview you need to specify the ID of the company whose data you want to collect.
 ![ui overview](https://i.imgur.com/Z6mA5VY.png)
+
 You can see the ID in the link for example:
-https://www.glassdoor.com/Overview/Working-at-Emazon-EI_IE6036.11,17.htm in this case the ID is 6036
+https://www.glassdoor.com/Overview/Working-at-Amazon-EI_IE6036.11,17.htm in this case the ID is 6036
 
 The data is saved in CSV format to the "output" directory, which is located in "glassdoor-scraper\src\glassdoor_scraper\"
 
